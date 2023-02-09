@@ -1,1 +1,1 @@
-6-multiple_permissions that adds execute permission to the owner and the group owner, and read permission to other users, to the file
+7-everybody gives permissions to everyone
