@@ -1,1 +1,1 @@
-8-James_Bond is a script that adds no permission owner and group but grants it all to other users
+10-mirror_permissions is a script that sets the mode of the file hello the same as olleh’s mode.
